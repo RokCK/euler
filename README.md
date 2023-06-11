@@ -1,3 +1,3 @@
 # euler
 
-## Trying to revsolve projecteuler.net problems
+## Trying to solve projecteuler.net problems
