@@ -1,4 +1,5 @@
 # Problem 8
+
 def largest_product_in_series(series, n):
     series = series.replace("\n","")
     largest_product = 0
@@ -9,6 +10,7 @@ def largest_product_in_series(series, n):
         if product > largest_product:
             largest_product = product
     return largest_product
+
 series = """
 73167176531330624919225119674426574742355349194934
 96983520312774506326239578318016984801869478851843
@@ -31,4 +33,5 @@ series = """
 05886116467109405077541002256983155200055935729725
 71636269561882670428252483600823257530420752963450
 """
+
 print(largest_product_in_series(series, 13))

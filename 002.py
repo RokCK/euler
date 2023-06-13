@@ -1,4 +1,5 @@
 # Problem 2
+
 def sum_of_even_fibonacci(max_value):
     a, b = 0, 1
     s = 0 
@@ -7,4 +8,5 @@ def sum_of_even_fibonacci(max_value):
             s += a
         a, b = b, a + b 
     return s
+
 print(sum_of_even_fibonacci(4000000))

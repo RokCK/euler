@@ -1,4 +1,5 @@
 # Problem 3
+
 def largest_prime_factor(n):
     i = 2
     while i * i <= n:
@@ -7,4 +8,5 @@ def largest_prime_factor(n):
         else:
             n //= i
     return n
+
 print(largest_prime_factor(600851475143)) 

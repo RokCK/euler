@@ -1,4 +1,6 @@
 # Problem 7
+import math
+
 def nth_prime(n):
     upper_limit = int(n * (math.log(n) + math.log(math.log(n)))) + 1
     sieve = [True] * upper_limit
@@ -9,5 +11,5 @@ def nth_prime(n):
                 sieve[j] = False
     primes = [x for x in range(2, upper_limit) if sieve[x]]
     return primes[n-1]
-import math
+
 print(nth_prime(10001))
