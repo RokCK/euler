@@ -1,4 +1,4 @@
-# Problem 9
+# Problem 10
 def sum_of_primes(n):
     sieve = [True] * n
     sieve[0] = sieve[1] = False
