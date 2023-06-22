@@ -1,4 +1,4 @@
-# Problem 18
+# Problem 018: Maximum Path Sum I
 
 triangle = [
     [75],
