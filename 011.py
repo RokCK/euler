@@ -1,4 +1,4 @@
-# Problem 11
+# Problem 011: Largest Product in a Grid
 
 def max_product(grid_str, adjacent_numbers):
     grid = [[int(num) for num in line.split()] for line in grid_str.split("\n") if line]
