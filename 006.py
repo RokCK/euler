@@ -1,4 +1,4 @@
-# Problem 6
+# Problem 006: Sum Square Difference
 
 def sum_square_difference(n):
     sum_of_squares = sum(i**2 for i in range(1, n+1))
