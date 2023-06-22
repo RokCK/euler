@@ -1,4 +1,4 @@
-# Problem 2
+# Problem 002: Even Fibonacci Numbers
 
 def sum_of_even_fibonacci(max_value):
     a, b = 0, 1
