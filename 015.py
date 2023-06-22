@@ -1,4 +1,4 @@
-# Problem 015: Large Sum
+# Problem 015: Lattice Paths
 import math
 
 def num_paths(grid_size):
