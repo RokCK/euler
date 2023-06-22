@@ -1,4 +1,4 @@
-# Problem 16
+# Problem 016: Power Digit Sum
 import math
 
 def power_digit_sum():
