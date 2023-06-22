@@ -1,4 +1,4 @@
-# Problem 17
+# Problem 017: Number Letter Counts
 
 def number_letter_counts():
     words = {0: '', 1: 'one', 2: 'two', 3: 'three', 4: 'four', 5: 'five',
