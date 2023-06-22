@@ -1,4 +1,4 @@
-# Problem 9
+# Problem 009: Special Pythagorean Triplet
 
 def pythagorean_triplet(n):
     for a in range(1, n):
