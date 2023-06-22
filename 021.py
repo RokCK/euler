@@ -1,4 +1,4 @@
-#Problem 21
+#Problem 021: Amicable Numbers
 
 def amicable_sum(num):
 	divisor_sum = [0] * num
