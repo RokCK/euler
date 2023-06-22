@@ -1,4 +1,4 @@
-# Problem 15
+# Problem 015: Large Sum
 import math
 
 def num_paths(grid_size):
