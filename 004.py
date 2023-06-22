@@ -1,4 +1,4 @@
-# Problem 4
+# Problem 004: Largest Palindrome Product
 
 def largest_palindrome_product():
     max_product = 0
