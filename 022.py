@@ -1,4 +1,4 @@
-# Problem 22
+# Problem 022: Names Scores
 
 def name_scores(filename):
     with open(filename, 'r') as f:
