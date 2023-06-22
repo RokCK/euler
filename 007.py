@@ -1,4 +1,4 @@
-# Problem 7
+# Problem 007: 10001st Prime
 import math
 
 def nth_prime(n):
