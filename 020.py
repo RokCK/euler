@@ -1,4 +1,4 @@
-# Problem 16
+# Problem 020: Factorial Digit Sum
 from math import factorial
 
 def factorial_digit_sum():
