@@ -1,4 +1,4 @@
-# Problem 10
+# Problem 010: Summation of Primes
 
 def sum_of_primes(n):
     sieve = [True] * n
