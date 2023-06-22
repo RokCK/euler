@@ -1,4 +1,4 @@
-# Problem 5
+# Problem 005: Smallest Multiple
 import math
 
 def smallest_multiple(n):
