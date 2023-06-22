@@ -1,4 +1,4 @@
-# Problem 12
+# Problem 012: Highly Divisible Triangular Number
 import math
 
 def triangle_divisors(n):
