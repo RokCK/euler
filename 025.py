@@ -1,4 +1,4 @@
-# Problem 25
+# Problem 025: 1000-digit Fibonacci Number
 
 def fibonacci_index(digits):
     a, b = 1, 1
