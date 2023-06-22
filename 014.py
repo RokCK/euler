@@ -1,4 +1,4 @@
-# Problem 14
+# Problem 014: Longest Collatz Sequence
 
 def collatz(n):
     while n != 1:
