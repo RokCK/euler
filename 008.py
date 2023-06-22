@@ -1,4 +1,4 @@
-# Problem 8
+# Problem 008: Largest Product in a Series
 
 def largest_product_in_series(series, n):
     series = series.replace("\n","")
