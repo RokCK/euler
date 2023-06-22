@@ -1,4 +1,4 @@
-# Problem 3
+# Problem 003: Largest Prime Factor
 
 def largest_prime_factor(n):
     i = 2
